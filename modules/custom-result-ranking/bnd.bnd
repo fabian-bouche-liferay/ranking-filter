@@ -1,0 +1,3 @@
+Bundle-Name: custom-result-ranking
+Bundle-SymbolicName: com.liferay.samples.fbo.search.tuning.rankings
+Bundle-Version: 1.0.0

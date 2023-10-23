@@ -1,0 +1,7 @@
+Bundle-Name: result-ranking-fragment
+Bundle-SymbolicName: com.liferay.samples.fbo.search.tuning.rankings.fragment
+Bundle-Version: 1.0.0
+Fragment-Host: com.liferay.portal.search.tuning.rankings.web
+Export-Package:\
+	com.liferay.portal.search.tuning.rankings.web.internal.index,\
+	com.liferay.portal.search.tuning.rankings.web.internal.index.name

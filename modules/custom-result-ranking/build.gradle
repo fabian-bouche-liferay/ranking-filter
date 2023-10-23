@@ -1,0 +1,5 @@
+dependencies {
+	compileOnly group: "com.liferay.portal", name: "release.dxp.api"
+	compileOnly group: "com.liferay", name: "com.liferay.portal.search"
+	compileOnly group: "com.liferay", name: "com.liferay.portal.search.tuning.rankings.web", version: "3.0.54"
+}
